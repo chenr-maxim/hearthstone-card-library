@@ -1,0 +1,25 @@
+/* .card-list-container {
+  display: grid;
+  width: 80vw;
+  grid-template-columns: repeat( auto-fit, 250px);
+  grid-row-gap: 20px;
+  grid-column-gap: 20px;
+} */
+
+.getMoreCardsButton {
+  display: flex;
+  font-size: 28px;
+  margin: 0 auto 0 auto;
+  text-align: center;
+  align-items: center;
+  width: 225px;
+  height: 100px;
+}
+
+.deck-container {
+  position: fixed;
+  width: 350px;
+  top: 5rem;
+  right: 0;
+  margin: 0 150px 0 0;
+}
